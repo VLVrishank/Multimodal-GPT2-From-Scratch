@@ -20,8 +20,9 @@ Most multimodal systems rely on massive compute or pre-aligned models. This proj
 
 | Input Image | Model Prediction (Raw Output) |
 | :--- | :--- |
-| (<img width="571" height="411" alt="image" src="https://github.com/user-attachments/assets/f1bb18a1-b3b0-4d20-ae3f-ac74f55eee2f" />
-) | *"A group of people in a large temple . The people in the temple are surrounded by a large crowd..."* |
+| <img width="571" height="411" alt="image" src="https://github.com/user-attachments/assets/f1bb18a1-b3b0-4d20-ae3f-ac74f55eee2f" />
+ | *"A group of people in a large temple . The people in the temple are surrounded by a large crowd..."* |
+ 
 
 **Note on Output:** The looping behavior is a byproduct of the 124M parameter decoder's limited context and greedy search. However, the **semantic identification** of "Temple" and "Crowd" proves the projection layer successfully aligned the visual features to the correct text neighborhoods.
 
