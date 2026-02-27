@@ -3,9 +3,9 @@
 > **Surgically implanting vision into a frozen, text-only GPT-2 using a custom projection bottleneck and LoRA adapters.**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5b24a815-d5e4-4258-81ee-f91e4d74273d" width="800" alt="Architecture Diagram"/>
+  <img src="https://github.com/user-attachments/assets/5b24a815-d5e4-4258-81ee-f91e4d74273d" width="500" alt="Architecture Diagram"/>
+  
 </div>
-
 ---
 
 ## The Core Concept
